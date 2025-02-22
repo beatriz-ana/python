@@ -1,10 +1,10 @@
 # Estrutura Sequencial
     Lista de exercícios da python Brasil
 #### 1.Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-[Resolução]()
+[Resolução](https://github.com/beatriz-ana/python/blob/main/exercicios-python-brasil/estrutura-sequencial/ex_01.py)
 
 #### 2.Faça um Programa que peça um número e então mostre a mensagem O número informado foi (número).
-[Resolução]()
+[Resolução](https://github.com/beatriz-ana/python/blob/main/exercicios-python-brasil/estrutura-sequencial/ex_02.py)
 
 ### 3.Faça um Programa que peça dois números e imprima a soma.
 [Resolução]()
@@ -72,7 +72,7 @@
 + comprar apenas latas de 18 litros;
 + comprar apenas galões de 3,6 litros;
 + misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
- 
+
 [Resolução]()
 
 #### 18.Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
