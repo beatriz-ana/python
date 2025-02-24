@@ -68,11 +68,9 @@ Como estou no início dos meus estudos em Lógica de Programação, não segui a
 
 11.Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
 
-a. O produto do dobro do primeiro com metade do segundo.
-
-b. A soma do triplo do primeiro com o terceiro.
-
-c. O terceiro elevado ao cubo.
++ O produto do dobro do primeiro com metade do segundo.
++ A soma do triplo do primeiro com o terceiro.
++ O terceiro elevado ao cubo.
 
 [Solução Proposta](exercicios-python-brasil/estrutura-sequencial/ex_11.py)
 
@@ -82,9 +80,8 @@ c. O terceiro elevado ao cubo.
 
 13.Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 
-  Para homens: (72.7*h) - 58
-
-  Para mulheres: (62.1*h) - 44.7
++ Para homens: (72.7*h) - 58
++ Para mulheres: (62.1*h) - 44.7
 
 [Solução Proposta](exercicios-python-brasil/estrutura-sequencial/ex_13.py)
 
@@ -93,19 +90,18 @@ c. O terceiro elevado ao cubo.
 [Solução Proposta](exercicios-python-brasil/estrutura-sequencial/ex_14.py)
 
 15.Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
-   a.salário bruto.
-   b.quanto pagou ao INSS.
-   c.quanto pagou ao sindicato.
-   d.o salário líquido.
-   e.calcule os descontos e o salário líquido, conforme a tabela abaixo:
 
-```
-+ Salário Bruto : R$
-- IR (11%) : R$
-- INSS (8%) : R$
-- Sindicato ( 5%) : R$
-= Salário Liquido : R$ 
-```
++ salário bruto.
++ quanto pagou ao INSS.
++ quanto pagou ao sindicato.
++ o salário líquido.
++ calcule os descontos e o salário líquido, conforme a tabela abaixo:
+
+      + Salário Bruto : R$
+      - IR (11%) : R$
+      - INSS (8%) : R$
+      - Sindicato ( 5%) : R$
+      = Salário Liquido : R$
 
 [Solução Proposta](exercicios-python-brasil/estrutura-sequencial/ex_15.py)
 
